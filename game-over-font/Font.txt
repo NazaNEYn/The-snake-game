@@ -1,0 +1,11 @@
+Just use the name "Game Over" for your font name.
+
+Example:
+self.write("Game Over!!", align="center", font=("Game Over", 60, "normal"))
+
+
+
+
+________________________________________________________
+
+Font source : https://www.dafont.com/game-over.font
