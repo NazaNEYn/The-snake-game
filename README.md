@@ -6,7 +6,7 @@
 A modern take on the classic arcade game, built with Python's `turtle` module. Navigate the snake to eat the food, grow longer, and beat your high score—but be careful not to hit the walls or your own tail!
 <br>
 
-### You can check out the demo **[here](https://www.youtube.com/watch?v=ffHKf57doVE)**
+### You can check out the demo on YouTube **[here](https://www.youtube.com/watch?v=10l3V6qERWg)**
 
 <hr>
 
