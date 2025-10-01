@@ -36,7 +36,8 @@ class Scoreboard(Turtle):
         if self.score > self.highscore:
             self.highscore = self.score
             with open("highscore.txt", "w") as file:
-                file.write(str(self.highscore))
+                file.write(f"{self.highscore}")
+                # file.write(str(self.highscore))
         self.score = 0
         self.update_scoreboard()
 
@@ -44,3 +45,4 @@ class Scoreboard(Turtle):
     #     """Displays the 'Game Over!!' message in the center of the screen."""
     #     self.goto(0, 0)
     #     self.write("Game Over!!", align="center", font=("Game Over", 60, "normal"))
+
